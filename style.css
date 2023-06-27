@@ -1,0 +1,27 @@
+html {background-color: black;}
+.first{
+    width: 50%;
+    color: white;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 100px;
+}
+h1{
+    font-family: 'Caveat', cursive;
+    text-transform: uppercase;
+    
+}
+h2{
+    font-family: 'Caveat', cursive;
+    text-transform: uppercase;
+}
+p{
+    font-family: 'Lora', serif;
+font-family: 'Oleo Script', cursive;
+color: pink;
+}
+.pic28{
+    border: solid white 5px;
+    width: 100%;}
+    
+
